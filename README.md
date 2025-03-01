@@ -12,3 +12,13 @@ Exemplo:
 
 _O bot realizará uma varredura no site e identificará possíveis IPs expostos._
 
+
+## 📦 Dependências:
+
+**Certifique-se de ter instalado:**
+
+```
+python3  
+requests (biblioteca)  
+python-telegram-bot (versão 21.10)
+```
